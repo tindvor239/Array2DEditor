@@ -35,8 +35,8 @@ To get started:
 
 ## See it in action
 
-![Example 2](Screenshots/Example_2.gif)
-![Example 1](Screenshots/Example_1.PNG)
+![Example 2](Editor/Screenshots/Example_2.gif)
+![Example 1](Editor/Screenshots/Example_1.PNG)
 
 ## Create arrays from your own types!
 
