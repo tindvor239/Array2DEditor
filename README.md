@@ -4,7 +4,7 @@ Use this if you want to deal with 2D arrays easily within the inspector of Unity
 
 ## Getting Started
 
-# Installation via UPM (Unity Package Manager)
+### Installation via UPM (Unity Package Manager)
 
 You can add this package to your project by:
 1. Opening the Package Manager window
@@ -22,7 +22,7 @@ or by adding the following line to your `manifest.json`:
 }
 ```
 
-# Installation via UP (Unity Package)
+### Installation via UP (Unity Package)
 
 For a quick import into an existing project, just get the [UnityPackage](Array2DEditorPackage.unitypackage). It also contains some examples.
 
