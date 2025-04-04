@@ -1,16 +1,20 @@
 {
   "name": "array2d",
-  "version": "0.0.1",
+  "version": "0.0.1-release",
   "displayName": "Array2D Editor",
   "description": "A Unity tool for editing 2D arrays directly in the Unity Inspector.",
   "author": "Eldoir",
   "unity": "2020.3",
-  "keywords": ["unity", "array", "2d", "editor", "inspector"],
+  "keywords": [
+    "unity",
+    "array",
+    "2d",
+    "editor",
+    "inspector"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/tindvor239/Array2DEditor"
   },
-  "hideInEditor": false,
-  "dependencies": {
-  }
+  "hideInEditor": false
 }
