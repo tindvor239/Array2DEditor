@@ -4,6 +4,26 @@ Use this if you want to deal with 2D arrays easily within the inspector of Unity
 
 ## Getting Started
 
+# Installation via UPM (Unity Package Manager)
+
+You can add this package to your project by:
+1. Opening the Package Manager window
+2. Clicking the + button in the top-left corner
+3. Selecting "Add package from git URL..."
+4. Entering `https://github.com/tindvor239/Array2DEditor.git`
+
+or by adding the following line to your `manifest.json`:
+
+```json
+{
+	"dependencies": {
+		"com.tindvor239.array2deditor": "https://github.com/tindvor239/Array2DEditor.git"
+	}
+}
+```
+
+# Installation via UP (Unity Package)
+
 For a quick import into an existing project, just get the [UnityPackage](Array2DEditorPackage.unitypackage). It also contains some examples.
 
 The `Array2DEditor` folder on this repo is an empty project with only the plugin imported! 🙂
